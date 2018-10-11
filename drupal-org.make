@@ -208,7 +208,7 @@ projects[panopoly_search][patch][2930863] = https://www.drupal.org/files/issues/
 projects[bootstrap_tour][version] = 2.5
 projects[bootstrap_tour][subdir] = contrib
 
-projects[command_buttons][version] = 1.14
+projects[command_buttons][version] = 1.15
 projects[command_buttons][subdir] = contrib
 
 projects[contextual_tabs][version] = 1.0
