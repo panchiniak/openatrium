@@ -162,7 +162,7 @@ projects[oa_radix][version] = 3.26
 projects[panopoly_core][version] = 1.58
 projects[panopoly_core][subdir] = panopoly
 projects[panopoly_core][patch][2477347] = https://www.drupal.org/files/issues/2018-12-12/2477347-panopoly_core-views-11.patch
-projects[panopoly_core][patch][2477363] = https://www.drupal.org/files/issues/2018-12-12/2477363-panopoly_core-ctools-26.patch
+;projects[panopoly_core][patch][2477363] = https://www.drupal.org/files/issues/2018-12-12/2477363-panopoly_core-ctools-26.patch
 projects[panopoly_core][patch][2477369] = https://www.drupal.org/files/issues/2477369-panopoly_core-entity-7.patch
 projects[panopoly_core][patch][2477375] = https://www.drupal.org/files/issues/2477375-panopoly_core-entityreference-9.patch
 projects[panopoly_core][patch][2477379] = https://www.drupal.org/files/issues/2477379-panopoly_core-token-1.patch
@@ -197,7 +197,6 @@ projects[panopoly_wysiwyg][subdir] = panopoly
 
 projects[panopoly_search][version] = 1.58
 projects[panopoly_search][subdir] = panopoly
-projects[panopoly_search][patch][2930863] = https://www.drupal.org/files/issues/2930863-panopoly_search-2.patch
 
 ; ***************** End Panopoly *****************
 ; ************************************************
