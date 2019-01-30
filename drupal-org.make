@@ -177,7 +177,6 @@ projects[panopoly_theme][patch][2656920] = https://www.drupal.org/files/issues/2
 
 projects[panopoly_magic][version] = 1.60
 projects[panopoly_magic][subdir] = panopoly
-projects[panopoly_magic][patch][2611876] = https://www.drupal.org/files/issues/panopoly_magic-add_descriptions_to-2611876-2.patch
 
 projects[panopoly_widgets][version] = 1.60
 projects[panopoly_widgets][subdir] = panopoly
