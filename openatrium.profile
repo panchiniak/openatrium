@@ -16,7 +16,7 @@ function openatrium_apps_servers_info() {
   return array(
     'openatrium' => array(
       'title' => 'OpenAtrium',
-      'description' => "Apps for the OpenAtrium distribution",
+      'description' => "Apps for the Open Atrium distribution",
       'manifest' => 'http://appserver.openatrium.com/app/query/' . $version,
       'profile' => 'openatrium',
       'profile_version' => isset($info['version']) ? $info['version'] : '7.x-2.x-dev',
