@@ -44,8 +44,5 @@ projects[drupal][patch][2492993] = https://www.drupal.org/files/issues/2492993-d
 ; Fixes sticky headers are not calculating the column widths properly.
 projects[drupal][patch][2097081] = https://www.drupal.org/files/2097081-fix-sticky-header-column-width-7.x-6.patch
 
-; Prevent Drupal from scanning node_module and bower_component directories in theme
-projects[drupal][patch][2329453] = https://www.drupal.org/files/issues/ignore_front_end_vendor-2329453-111.patch
-
 ; Issues with "required, multiple" fields in forms.
 projects[drupal][patch][980144] = https://www.drupal.org/files/issues/d7-issues_with_required-980144-76.patch
