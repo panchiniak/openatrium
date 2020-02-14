@@ -182,7 +182,6 @@ projects[panopoly_magic][subdir] = panopoly
 
 projects[panopoly_widgets][version] = 1.72
 projects[panopoly_widgets][subdir] = panopoly
-projects[panopoly_widgets][patch][2477397] = https://www.drupal.org/files/issues/2018-05-08/2477397-panopoly_widgets-file_entity-7.patch
 
 projects[panopoly_admin][version] = 1.72
 projects[panopoly_admin][subdir] = panopoly
