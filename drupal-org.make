@@ -144,8 +144,10 @@ projects[oa_basetheme][version] = 2.6
 projects[oa_theme][type] = theme
 projects[oa_theme][version] = 2.4
 
-projects[oa_radix][type] = theme
-projects[oa_radix][version] = 3.26
+; oa_radix is no longer installed by default due to issues with the Radix theme
+; You can install oa_radix manually if needed.
+;projects[oa_radix][type] = theme
+;projects[oa_radix][version] = 3.26
 
 ; *********** End Open Atrium Themes *************
 ; ************************************************
@@ -161,7 +163,7 @@ projects[oa_radix][version] = 3.26
 
 projects[panopoly_core][version] = 1.72
 projects[panopoly_core][subdir] = panopoly
-projects[panopoly_core][patch][2477347] = https://www.drupal.org/files/issues/2020-01-03/2477347-panopoly_core-views-13.patch
+projects[panopoly_core][patch][2477347] = https://www.drupal.org/files/issues/2020-01-03/2477347-panopoly_core-views-14.patch
 projects[panopoly_core][patch][2477363] = https://www.drupal.org/files/issues/2018-12-12/2477363-panopoly_core-ctools-28.patch
 projects[panopoly_core][patch][2477369] = https://www.drupal.org/files/issues/2477369-panopoly_core-entity-7.patch
 projects[panopoly_core][patch][2477375] = https://www.drupal.org/files/issues/2477375-panopoly_core-entityreference-9.patch
