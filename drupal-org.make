@@ -16,7 +16,7 @@ projects[oa_discussion][subdir] = apps
 projects[oa_discussion][version] = 2.41
 
 projects[oa_events][subdir] = apps
-projects[oa_events][version] = 2.47
+projects[oa_events][version] = 2.48
 
 projects[oa_wiki][subdir] = apps
 projects[oa_wiki][version] = 2.40
@@ -59,7 +59,7 @@ projects[oa_contextual_tabs][subdir] = apps
 projects[oa_devel][version] = 2.4
 projects[oa_devel][subdir] = apps
 
-projects[oa_domains][version] = 2.3
+projects[oa_domains][version] = 2.4
 projects[oa_domains][subdir] = apps
 
 projects[oa_export][version] = 2.3
@@ -98,7 +98,7 @@ projects[oa_notifications][version] = 2.35
 projects[oa_project][version] = 2.2
 projects[oa_project][subdir] = apps
 
-projects[oa_related][version] = 2.14
+projects[oa_related][version] = 2.15
 projects[oa_related][subdir] = apps
 
 projects[oa_sandbox][version] = 2.2
@@ -107,7 +107,7 @@ projects[oa_sandbox][subdir] = apps
 projects[oa_search][version] = 2.10
 projects[oa_search][subdir] = apps
 
-projects[oa_site_layout][version] = 2.3
+projects[oa_site_layout][version] = 2.4
 projects[oa_site_layout][subdir] = apps
 
 projects[oa_sitemap][version] = 2.12
@@ -119,7 +119,7 @@ projects[oa_styles][subdir] = apps
 projects[oa_subspaces][version] = 2.37
 projects[oa_subspaces][subdir] = apps
 
-projects[oa_toolbar][version] = 2.18
+projects[oa_toolbar][version] = 2.19
 projects[oa_toolbar][subdir] = apps
 
 projects[oa_tour][version] = 2.5
@@ -139,15 +139,15 @@ projects[oa_wizard][subdir] = apps
 ; ************** Open Atrium Themes **************
 
 projects[oa_basetheme][type] = theme
-projects[oa_basetheme][version] = 2.6
+projects[oa_basetheme][version] = 2.7
 
 projects[oa_theme][type] = theme
-projects[oa_theme][version] = 2.4
+projects[oa_theme][version] = 2.5
 
 ; oa_radix is no longer installed by default due to issues with the Radix theme
 ; You can install oa_radix manually if needed.
 ;projects[oa_radix][type] = theme
-;projects[oa_radix][version] = 3.26
+;projects[oa_radix][version] = 3.27
 
 ; *********** End Open Atrium Themes *************
 ; ************************************************
