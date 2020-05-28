@@ -15,7 +15,7 @@ projects[drupal][patch][1973278] = http://www.drupal.org/files/issues/image-acco
 ; *********** PATCHES ************
 
 ; Patch for jQuery Ajax issue in Chrome 83
-projects[drupal][patch][1356276] = https://www.drupal.org/files/issues/2020-05-27/3143016-19.patch
+projects[drupal][patch][3143016] = https://www.drupal.org/files/issues/2020-05-27/3143016-19.patch
 
 ; Patch for handling inherited profiles
 projects[drupal][patch][1356276] = http://drupal.org/files/1356276-make-D7-21.patch
