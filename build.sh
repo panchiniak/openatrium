@@ -97,7 +97,6 @@ else
   echo 'Running drush make...'
   drush make $DRUSH_OPTS "$ABS_CALLPATH/$MAKEFILE" "$TARGET"
 fi
-exit
 set +e
 # check to see if drush make was successful by checking for oa_core module
 if [ -e "$TARGET/profiles/openatrium/modules/contrib/oa_core" ]; then
