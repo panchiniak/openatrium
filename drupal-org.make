@@ -194,6 +194,7 @@ projects[panopoly_pages][subdir] = panopoly
 
 projects[panopoly_wysiwyg][version] = 1.87
 projects[panopoly_wysiwyg][subdir] = panopoly
+projects[panopoly_wysiwyg][patch][] = "panopoly_wysiwyg_make.patch"
 
 projects[panopoly_search][version] = 1.87
 projects[panopoly_search][subdir] = panopoly
