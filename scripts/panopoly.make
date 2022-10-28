@@ -10,6 +10,8 @@ core = 7.x
 ; so we can patch or update certain projects fetched by Panopoly's makefiles.
 ; NOTE: If you are running Drush 6, this section should be placed at the TOP
 
+projects[panopoly_wysiwyg][patch][0] = "panopoly_wysiwyg_make.patch"
+
 projects[panopoly_core][version] = 1.87
 projects[panopoly_core][subdir] = panopoly
 projects[panopoly_core][patch][2477347] = https://www.drupal.org/files/issues/2020-05-28/2477347-panopoly_core-views-17.patch
@@ -18,8 +20,6 @@ projects[panopoly_core][patch][2477369] = https://www.drupal.org/files/issues/24
 projects[panopoly_core][patch][2477375] = https://www.drupal.org/files/issues/2477375-panopoly_core-entityreference-9.patch
 projects[panopoly_core][patch][2477379] = https://www.drupal.org/files/issues/2477379-panopoly_core-token-1.patch
 projects[panopoly_core][patch][2592821] = https://www.drupal.org/files/issues/2018-12-12/2592821-panopoly_core-apps-5.patch
-
-projects[panopoly_wysiwyg][patch][] = "panopoly_wysiwyg_make.patch"
 
 projects[panopoly_images][version] = 1.87
 projects[panopoly_images][subdir] = panopoly
