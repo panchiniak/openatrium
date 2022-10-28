@@ -1,7 +1,7 @@
-diff --git a/modules/panopoly/panopoly_wysiwyg/panopoly_wysiwyg.make b/modules/panopoly/panopoly_wysiwyg/panopoly_wysiwyg.make
+diff --git a/panopoly_wysiwyg/panopoly_wysiwyg.make b/panopoly_wysiwyg/panopoly_wysiwyg.make
 index 9a70f76f1..59f9b2330 100644
---- a/modules/panopoly/panopoly_wysiwyg/panopoly_wysiwyg.make
-+++ b/modules/panopoly/panopoly_wysiwyg/panopoly_wysiwyg.make
+--- a/panopoly_wysiwyg/panopoly_wysiwyg.make
++++ b/panopoly_wysiwyg/panopoly_wysiwyg.make
 @@ -28,9 +28,9 @@ projects[caption_filter][subdir] = contrib
  ; Include our Editors
  

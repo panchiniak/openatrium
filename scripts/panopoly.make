@@ -18,6 +18,7 @@ projects[panopoly_core][patch][2477369] = https://www.drupal.org/files/issues/24
 projects[panopoly_core][patch][2477375] = https://www.drupal.org/files/issues/2477375-panopoly_core-entityreference-9.patch
 projects[panopoly_core][patch][2477379] = https://www.drupal.org/files/issues/2477379-panopoly_core-token-1.patch
 projects[panopoly_core][patch][2592821] = https://www.drupal.org/files/issues/2018-12-12/2592821-panopoly_core-apps-5.patch
+projects[panopoly_wysiwyg][patch][] = "panopoly_wysiwyg_make.patch"
 
 projects[panopoly_images][version] = 1.87
 projects[panopoly_images][subdir] = panopoly
