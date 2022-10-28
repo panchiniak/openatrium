@@ -10,7 +10,7 @@ core = 7.x
 ; so we can patch or update certain projects fetched by Panopoly's makefiles.
 ; NOTE: If you are running Drush 6, this section should be placed at the TOP
 
-projects[panopoly_wysiwyg][patch][0] = https://raw.githubusercontent.com/panchiniak/openatrium/fs/REACT-remove-tinymce/scripts/panopoly_wysiwyg_make.patch
+; projects[panopoly_wysiwyg][patch][0] = https://raw.githubusercontent.com/panchiniak/openatrium/fs/REACT-remove-tinymce/scripts/panopoly_wysiwyg_make.patch
 
 projects[panopoly_core][version] = 1.87
 projects[panopoly_core][subdir] = panopoly
@@ -43,8 +43,8 @@ projects[panopoly_users][subdir] = panopoly
 projects[panopoly_pages][version] = 1.87
 projects[panopoly_pages][subdir] = panopoly
 
-projects[panopoly_wysiwyg][version] = 1.87
-projects[panopoly_wysiwyg][subdir] = panopoly
+; projects[panopoly_wysiwyg][version] = 1.87
+; projects[panopoly_wysiwyg][subdir] = panopoly
 
 projects[panopoly_search][version] = 1.87
 projects[panopoly_search][subdir] = panopoly
