@@ -4,11 +4,6 @@ core = 7.x
 ; MAKE file for Open Atrium RELEASE version.  Used by Drupal.org packager
 ; Drupal.org does not support recursive include[] files so everything is in this file
 
-; ******************** Custom *******************
-projects[panopoly_wysiwyg][version] = 1.80
-projects[panopoly_wysiwyg][subdir] = panopoly
-projects[panopoly_wysiwyg][patch][0] = scripts/panopoly_wysiwyg_make.patch
-
 ; ******************** RELEASE *******************
 
 projects[oa_core][subdir] = contrib
